@@ -22,7 +22,4 @@ contract Munchkins is LSP8Mintable {
             _LSP8_TOKENID_FORMAT_NUMBER
         )
     {}
-
-    // Any other desirable functions
-    // contract addr:0x822109c13d19C98bDb44282b9e3d98866AB07d17
 }
